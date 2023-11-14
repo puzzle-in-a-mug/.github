@@ -4,7 +4,7 @@
 
 The PuZZle in a Mug is a place where we learn, make mistakes, evolve and have fun!
 
-Here I face problems in the scientific mug of every day:
+Here I face problems in the everyday scientific mug:
 
 - Lots of coffee to focus ~~data analysis~~ ☕ 
 - A lemonade to cool off ~~regression~~ 🍋
