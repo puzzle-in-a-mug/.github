@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/puzzle-in-a-mug/.github/main/logo.png" width=200 align="right" />
+
 # A great name for ~~a bar~~ an organization!
 
 The PuZZle in a Mug is a place where we learn, make mistakes, evolve and have fun!
